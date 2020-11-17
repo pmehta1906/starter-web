@@ -16,6 +16,8 @@ Deployment procedure goes here
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Request for review
+
 ### Copyright
 
 Git.Training 2020
