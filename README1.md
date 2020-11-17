@@ -15,3 +15,7 @@ This section denoted purpose of the project
 Deployment procedure goes here
 
 ## How to Contribute
+
+### Copyright
+
+Git.Training 2020
